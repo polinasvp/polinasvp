@@ -1,16 +1,22 @@
-## Hi there 👋
+# Привет! 👋 Меня зовут Полина
 
-<!--
-**polinasvp/polinasvp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📊 Я изучаю Data Science и специализируюсь на анализе данных и машинном обучении.  
+- 💻 Владею: **Python**, **SQL**, **PostgreSQL**.  
+- 🤖 Интересуюсь моделированием, оптимизацией и интерпретацией моделей машинного обучения.  
+- 🌱 Сейчас изучаю продвинутые методы машинного обучения и визуализации данных.  
+- ✨ Моя цель — решать реальные задачи с использованием данных и создавать понятные и ценные аналитические решения.  
+- 📫 Связаться со мной:  
+  - 📧 [Email](polyasurova@yandex.ru)  
+  - 📱 [Telegram](https://t.me/polinasurova)
+  - 
+ ## 🎓 Образование
+- Прохожу курс **Data Science** от **Яндекс.Практикум**, где изучаю методы анализа данных, машинного обучения и обработки больших данных.
 
-Here are some ideas to get you started:
+## 🛠️ Используемые технологии
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-102230?style=flat-square&logo=scikit-learn&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Статистика
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=polinasvp&show_icons=true&theme=radical)
