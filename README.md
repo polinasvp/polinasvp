@@ -18,5 +18,25 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-102230?style=flat-square&logo=scikit-learn&logoColor=white)
 
+## Мои проекты
+- [**Линейные модели в машинном обучении**](https://github.com/polinasvp/Linear-models-in-machine-learning)
+
+- [**Выбор локации для скважины**](https://github.com/polinasvp/choosing-a-location-for-wells) 
+
+- [**HR-аналитика для компании «Работа с заботой»**](https://github.com/polinasvp/HR-analytics-for-the-company-Work-with-care-)
+
+- [**Исследование интернет-магазина В один клик**](https://github.com/polinasvp/One-click-Online-Store-Research) 
+
+- [**Анализ сервиса аренды самокатов GoFast**](https://github.com/polinasvp/-GoFast-Analysis-of-the-GoFast-scooter-rental-service)
+
+- [**Анализ интернет-магазина Стримчик**](https://github.com/polinasvp/Analysis-of-the-online-store-Streamchik)
+
+- [**Исследование надежности заемщиков**](https://github.com/polinasvp/Investigation-of-the-reliability-of-borrowers)
+  
+- [**Исследование объявлений о продаже квартир**](https://github.com/polinasvp/Research-of-apartment-sale-ads)
+
+- [**Анализ сервиса Яндекс.Музыка**](https://github.com/polinasvp/Yandex-Music)
+
+
 ## 📈 GitHub Статистика
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=polinasvp&show_icons=true&theme=radical)
