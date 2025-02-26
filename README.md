@@ -37,6 +37,14 @@
 
 - [**Анализ сервиса Яндекс.Музыка**](https://github.com/polinasvp/Yandex-Music)
 
+- [**Компьютерное зрение**](https://github.com/polinasvp/computer-vision)
+
+- [**Машинное обучение для текстов Викишоп**](https://github.com/polinasvp/Machine-learning-Vikishop)
+  
+- [**Прогнозирование заказов такси**](https://github.com/polinasvp/forecasting-taxi-orders)
+
+- [**Определение стоимости автомобилей**](https://github.com/polinasvp/-value-of-the-car)
+
 
 ## 📈 GitHub Статистика
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=polinasvp&show_icons=true&theme=radical)
